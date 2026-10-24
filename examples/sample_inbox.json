@@ -1,0 +1,8 @@
+[
+  {"id":"challenge", "title":"DEV Hacktoberfest submission deadline", "body":"Submit the Week 3 open-source AI challenge entry before 2026-10-25. Check portal registration.", "due_date":"2026-10-25"},
+  {"id":"challenge-copy", "title":"DEV Hacktoberfest submission deadline", "body":"Submit the Week 3 open-source AI challenge entry before 2026-10-25. Check portal registration.", "due_date":"2026-10-25"},
+  {"id":"reply", "title":"Partnership follow-up", "body":"Can you please reply and confirm whether you accept the collaboration meeting?"},
+  {"id":"review", "title":"Review proposal", "body":"Please evaluate this business proposal and review the document before deciding."},
+  {"id":"newsletter", "title":"Weekly digest", "body":"General newsletter with community articles. No action required."},
+  {"id":"ar", "title":"تأكيد حضور", "body":"يرجى الرد على الرسالة وتأكيد الحضور للورشة المجانية"}
+]

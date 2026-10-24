@@ -1,0 +1,100 @@
+{
+  "as_of": "2026-10-24",
+  "processed": 6,
+  "review_required": true,
+  "items": [
+    {
+      "id": "challenge",
+      "title": "DEV Hacktoberfest submission deadline",
+      "body": "Submit the Week 3 open-source AI challenge entry before 2026-10-25. Check portal registration.",
+      "due_date": "2026-10-25",
+      "category": "deadline",
+      "category_label": "Deadline / time-sensitive",
+      "priority": "High",
+      "confidence": 0.468,
+      "low_confidence": false,
+      "days_until_due": 1,
+      "suggested_next_action": "Check the deadline and complete the required action (deadline: 2026-10-25)",
+      "requires_human_approval": true
+    },
+    {
+      "id": "challenge-copy",
+      "title": "DEV Hacktoberfest submission deadline",
+      "body": "Submit the Week 3 open-source AI challenge entry before 2026-10-25. Check portal registration.",
+      "due_date": "2026-10-25",
+      "category": "deadline",
+      "category_label": "Deadline / time-sensitive",
+      "priority": "High",
+      "confidence": 0.468,
+      "low_confidence": false,
+      "days_until_due": 1,
+      "suggested_next_action": "Check the deadline and complete the required action (deadline: 2026-10-25)",
+      "requires_human_approval": true
+    },
+    {
+      "id": "ar",
+      "title": "تأكيد حضور",
+      "body": "يرجى الرد على الرسالة وتأكيد الحضور للورشة المجانية",
+      "due_date": null,
+      "category": "reply",
+      "category_label": "Reply requested",
+      "priority": "Medium",
+      "confidence": 0.467,
+      "low_confidence": false,
+      "days_until_due": null,
+      "suggested_next_action": "Acknowledge and draft a response; do not send automatically",
+      "requires_human_approval": true
+    },
+    {
+      "id": "reply",
+      "title": "Partnership follow-up",
+      "body": "Can you please reply and confirm whether you accept the collaboration meeting?",
+      "due_date": null,
+      "category": "reply",
+      "category_label": "Reply requested",
+      "priority": "Medium",
+      "confidence": 0.363,
+      "low_confidence": false,
+      "days_until_due": null,
+      "suggested_next_action": "Acknowledge and draft a response; do not send automatically",
+      "requires_human_approval": true
+    },
+    {
+      "id": "review",
+      "title": "Review proposal",
+      "body": "Please evaluate this business proposal and review the document before deciding.",
+      "due_date": null,
+      "category": "review",
+      "category_label": "Review / decision",
+      "priority": "Medium",
+      "confidence": 0.447,
+      "low_confidence": false,
+      "days_until_due": null,
+      "suggested_next_action": "Read and verify details before deciding",
+      "requires_human_approval": true
+    },
+    {
+      "id": "newsletter",
+      "title": "Weekly digest",
+      "body": "General newsletter with community articles. No action required.",
+      "due_date": null,
+      "category": "later",
+      "category_label": "Read later",
+      "priority": "Low",
+      "confidence": 0.475,
+      "low_confidence": false,
+      "days_until_due": null,
+      "suggested_next_action": "Keep for review when convenient; never auto-delete",
+      "requires_human_approval": true
+    }
+  ],
+  "duplicate_pairs": [
+    {
+      "id_a": "challenge",
+      "id_b": "challenge-copy",
+      "similarity": 1.0
+    }
+  ],
+  "model": "scikit-learn local TF-IDF + LogisticRegression v0.1",
+  "safety": "Suggestions only. No emails sent, no files deleted, no accounts connected."
+}

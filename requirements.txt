@@ -1,0 +1,3 @@
+scikit-learn>=1.3,<2
+# Optional local UI; CLI works without Gradio
+gradio>=4,<7
